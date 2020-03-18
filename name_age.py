@@ -1,3 +1,4 @@
+# Hey buddy, Just practicing here!
 
 name = input('Enter your name: ')
 age = int(input('Enter your age: '))
